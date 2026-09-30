@@ -1,0 +1,6 @@
+{
+  "name": "The Gents Detailing Co — Perth Mobile Car Detailing",
+  "description": "Premium mobile car detailing in Perth, WA. Specialists in paint correction, ceramic coatings, interior steam cleaning, and pet hair removal delivered to your driveway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
